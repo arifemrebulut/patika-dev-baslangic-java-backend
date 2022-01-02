@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class TamBolunenSatiOrtalamasi {
+public class TamBolunenSayiOrtalamasi {
 
     public static void main(String[] args){
         int number = 0, sum = 0, numbersCount = 0;
@@ -24,3 +24,4 @@ public class TamBolunenSatiOrtalamasi {
     }
 
 }
+
